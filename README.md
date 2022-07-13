@@ -38,7 +38,7 @@ After you create the IAM user with the right permission, add two variables below
 
 **Note**:
 
-- Please check the latest available version [here](https://github.com/marketplace/actions/aws-codepipeline-trigger-via-git) and replace it with `v1.0` in the code examples below.
+- Please check the latest available version [here](https://github.com/marketplace/actions/aws-codepipeline-trigger-via-github-actions) and replace it with `v1.0` in the code examples below.
 
 ```
 jobs:

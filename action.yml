@@ -17,5 +17,5 @@ runs:
   using: "node16"
   main: "dist/index.js"
 branding:
-  icon: "cloud-lightning"
+  icon: "cloud"
   color: "purple"
